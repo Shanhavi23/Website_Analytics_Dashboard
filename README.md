@@ -32,7 +32,7 @@ This project is a Website Analytics Dashboard built using Python and Streamlit. 
 
 4. Open a web browser and navigate to the local URL provided by Streamlit.
 
-Link to the deployed app: https://websiteanalyticsdashboard.streamlit.app/
+Link to the deployed app: https://constructionwebsiteanalyticsdashboard.streamlit.app/
 
 ## Usage
 
